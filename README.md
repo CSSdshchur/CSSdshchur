@@ -1,7 +1,5 @@
 # Daniel Shchur
 
-----
-
 <p align="center">
     <img src="https://cataas.com/cat/cute/says/welcome?fontSize=72&fontColor=white" width="400">
 </p>
